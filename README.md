@@ -1,2 +1,2 @@
 # drift
-A Zig WebRTC library, sans I/O.
+A WebRTC library, sans I/O.
